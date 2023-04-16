@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.49ef838f.css",
+    "main.js": "/static/js/main.3d0f532f.js",
+    "static/js/787.29561d4e.chunk.js": "/static/js/787.29561d4e.chunk.js",
+    "static/media/bg3.jpeg": "/static/media/bg3.016a4e7cf077cdcb4d73.jpeg",
+    "static/media/Adopt-Banner-2.jpg": "/static/media/Adopt-Banner-2.6553c513e1d864f35068.jpg",
+    "static/media/dog_kitty.webp": "/static/media/dog_kitty.5817b1e3e55876469a91.webp",
+    "static/media/logo.png": "/static/media/logo.f9a1af70dcca35ffaac5.png",
+    "index.html": "/index.html",
+    "main.49ef838f.css.map": "/static/css/main.49ef838f.css.map",
+    "main.3d0f532f.js.map": "/static/js/main.3d0f532f.js.map",
+    "787.29561d4e.chunk.js.map": "/static/js/787.29561d4e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49ef838f.css",
+    "static/js/main.3d0f532f.js"
+  ]
+}
